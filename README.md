@@ -41,6 +41,9 @@
     Inspired by <a href="https://github.com/sleeping-owl/admin" target="_blank">SleepingOwlAdmin</a> and <a href="https://github.com/zofe/rapyd-laravel" target="_blank">rapyd-laravel</a>.
 </p>
 
+<p>
+    <a href="https://laravel-admin.org/docs/#/en/installation?id=installation">Docs EN!!</a>
+</p>
 Screenshots
 ------------
 
